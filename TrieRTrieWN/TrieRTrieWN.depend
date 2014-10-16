@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1412784040 source:c:\users\moha_pc\desktop\test_t_rt\codeblock\triertriewn\bit_vector.cpp
+	"bit_vector.h"
+
+1412782922 c:\users\moha_pc\desktop\test_t_rt\codeblock\triertriewn\bit_vector.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1413221390 source:c:\users\moha_pc\desktop\test_t_rt\codeblock\triertriewn\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+	"trie_word_number.h"
+
+1413224598 c:\users\moha_pc\desktop\test_t_rt\codeblock\triertriewn\test.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<windows.h>
+	<time.h>
+	"trie_word_number.h"
+
+1413210912 c:\users\moha_pc\desktop\test_t_rt\codeblock\triertriewn\trie_word_number.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	"bit_vector.h"
+
+1413225726 source:c:\users\moha_pc\desktop\test_t_rt\codeblock\triertriewn\test.cpp
+	"test.h"
+
+1413221458 source:c:\users\moha_pc\desktop\test_t_rt\codeblock\triertriewn\trie_word_number.cpp
+	"trie_word_number.h"
+
